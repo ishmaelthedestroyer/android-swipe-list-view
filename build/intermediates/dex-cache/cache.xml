@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/ishmael/www/SwipeListView/swipelistview/build/intermediates/pre-dexed/debug/support-v4-19.0.1-62661ad63ba2ae35069496df9be79726f7ab95ee.jar"
+        jar="/Users/ishmael/Applications/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-v4/19.0.1/support-v4-19.0.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="587da9a481ffd341d2fa091704489b89845ddacd"/>
+    <item
+        dex="/Users/ishmael/www/SwipeListView/swipelistview/build/intermediates/pre-dexed/debug/classes-9b9084ff2d340d84ff0389845e9a44917755d808.jar"
+        jar="/Users/ishmael/www/SwipeListView/swipelistview/build/intermediates/exploded-aar/com.fortysevendeg.swipelistview/swipelistview/1.0-SNAPSHOT/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="aca2cf1eb07a0a658257d3dc3e18926484861e0d"/>
+    <item
+        dex="/Users/ishmael/www/SwipeListView/swipelistview/build/intermediates/pre-dexed/debug/library-2.4.0-058199ce05faab895a3826c7b9d4f68ef15b9862.jar"
+        jar="/Users/ishmael/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb"/>
+    <item
+        dex="/Users/ishmael/www/SwipeListView/swipelistview/build/intermediates/pre-dexed/debug/classes-128bbcf97e48d184987a374bf8b68e55e7a26f65.jar"
+        jar="/Users/ishmael/www/SwipeListView/swipelistview/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.0.1/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f71a6822470c9eb659d4f4a6cb57b780b35f058b"/>
+
+</pre-dex-items>

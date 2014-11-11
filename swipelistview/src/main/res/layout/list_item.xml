@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="fill_parent"
+             android:layout_height="fill_parent">
+
+    <LinearLayout
+        android:id="@+id/back"
+        android:tag="back"
+        style="@style/ListBackContent">
+
+        <Button
+            android:id="@+id/deleteBtn"
+            style="@style/DeleteListItemButton"
+            android:text="@string/delete"
+            />
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/front"
+        style="@style/ListFrontContent">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            style="@style/ListItemTitle"
+            android:id="@+id/title" />
+    </RelativeLayout>
+
+</FrameLayout>
